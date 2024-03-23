@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: url('./images/background.jpg') bottom center;
   background-size: cover;
 }
 
@@ -55,7 +55,7 @@ footer {
   text-align: center;
   color: #ffffff;
   position: fixed;
-  bottom: 0;
+  bottom: 80px;
   left: 0;
   right: 0;
   width: 100%;
