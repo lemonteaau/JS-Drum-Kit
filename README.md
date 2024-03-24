@@ -5,6 +5,7 @@ This is a JavaScript Drum Kit web application allowing users to play drum sounds
 ## Description
 
 This project is part of my journey to learn JavaScript. It demonstrates the use of event listeners, audio playback, and basic animation in a web application.
+
 ![JS Drum Kit Preview](./images/preview.png)
 
 ## Getting Started
